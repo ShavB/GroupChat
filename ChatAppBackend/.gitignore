@@ -1,0 +1,40 @@
+# .NET Core / .NET 5+ specific
+bin/
+obj/
+out/
+.vs/
+.vscode/
+.idea/
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# ASP.NET Core development certificates
+development-certificate.pfx
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# node.js modules (if using for frontend or WebSocket library)
+node_modules/
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Temporary files
+*.bak
+*.swp
+*.tmp
+# Logs
+*.log
+# WebSocket-specific files (if any)
+websocket-log/
